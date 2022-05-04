@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Proje\bin\Debug\Proje.exe.config
+C:\Users\DELL\source\repos\Proje\bin\Debug\Proje.exe
+C:\Users\DELL\source\repos\Proje\bin\Debug\Proje.pdb
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.Ucgen.resources
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.exe
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.pdb
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.Kare.resources
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.TasKagitMakas.resources
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.Altdizgi.resources
+C:\Users\DELL\source\repos\Proje\obj\Debug\Proje.OnekArkaek.resources
